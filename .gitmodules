@@ -1,0 +1,3 @@
+[submodule "bemu"]
+	path = bemu
+	url = https://github.com/Robinson664/bemu.git
